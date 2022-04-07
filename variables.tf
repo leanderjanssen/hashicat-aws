@@ -35,12 +35,12 @@ variable "admin_username" {
 }
 
 variable "height" {
-  default     = "1920"
+  default     = "1024"
   description = "Image height in pixels."
 }
 
 variable "width" {
-  default     = "1080"
+  default     = "768"
   description = "Image width in pixels."
 }
 
